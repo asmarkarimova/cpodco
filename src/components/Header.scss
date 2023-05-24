@@ -1,0 +1,20 @@
+.containerhead{
+    max-width: 1440px;
+   width: 100%;
+}
+.head{
+    width: 1800px;
+    height: 100px;
+background-image: url(https://preview.colorlib.com/theme/podca/images/hero_bg_1.jpg.webp);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 200px;
+
+}
+.headul ul{
+    display: flex;
+align-items: center;
+gap: 50px;
+list-style: none;
+}
